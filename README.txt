@@ -1,0 +1,1 @@
+A simple beginner code for Blackjack. Learned from the 100 Days of Code class. I did my own spin on this and made it multiplayers with assigned scores and incorporated a bit more rules. I also added some UI touches to improve the UX, such as spaced inputs, proper name cycling, and clearer scoring.
